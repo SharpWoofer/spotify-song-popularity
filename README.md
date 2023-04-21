@@ -34,6 +34,13 @@ Are we able to predict the popularity of a song based on its attributes? Which m
 - R^2 is used to tell how good a regression model fits whereas accuracy score is used to tell how good a classifier model fits
 - How to use GitHub to collaborate 
 
+## Acknowlegements & Contributors
+
+Special thanks to our TA (Ju Ce) for his guidance throughout the course
+- @SharpWoofer
+- @AaronnF
+- @Advika07
+
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?ref=datascience.fm)
 - https://datascience.fm/fun-analysis-of-spotify-dataset-to-gain-insights-on-music-industry/
