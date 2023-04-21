@@ -37,9 +37,9 @@ Are we able to predict the popularity of a song based on its attributes? Which m
 ## Acknowlegements & Contributors
 
 Special thanks to our TA (Ju Ce) for his guidance throughout the course
-- @SharpWoofer
-- @AaronnF
-- @Advika07
+- [@SharpWoofer](https://github.com/SharpWoofer)
+- [@AaronnF](https://github.com/AaronnF)
+- [@Advika07](https://github.com/Advika07)
 
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?ref=datascience.fm)
