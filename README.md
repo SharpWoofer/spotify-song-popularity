@@ -22,7 +22,7 @@ Are we able to predict the popularity of a song based on its attributes? Which m
 ## Conclusion
 - Duration has little to no correlation with popularity
 - Acousticness is the strongest predictor for a song’s popularity
-- Removing outliers did help to improve the accuracy of our MLR(Multiple Linear Regression) model but did not help with the Random Forest which. This   helped us understand that Random Forest is indeed robust to outliers
+- Removing outliers did help to improve the accuracy of our MLR(Multiple Linear Regression) model but did not help with the Random Forest. This   helped us understand that Random Forest is indeed robust to outliers
 - Random Forest performed much better than the MLR in predicting a song’s popularity
 - We found that we can indeed predict a song’s popularity based on its attributes with an acceptable amount of accuracy
 
