@@ -5,7 +5,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from The Spotify Dataset. We have organized our notebook according to the following sections:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on songs from The Spotify Dataset. We have organized our notebook according to the following sections:
 - Data preparation/Cleaning
 - EDA/Data visualization
 - Machine Learning Techniques(Multiple Linear Regression and Random Forest)
